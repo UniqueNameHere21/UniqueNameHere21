@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mason Bullock
 
-<!--
-**UniqueNameHere21/UniqueNameHere21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate from the University of Calgary
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### InkBot - Engineering Capstone Project
+Automated Robotic system for wall line marking in residential framing
+
+Project Website: https://uniquenamehere21.github.io/InkBotWeb/
+
+### Helios Mercury
+Qt6 Car Gauge Cluser and Telemetry software
+
+- Project Website: https://uniquenamehere21.github.io/Helios-Mercury/
+
+### Helios Sentinel
+CAN bus simulation system for testing vehicle software
+
+- Project Website: https://uniquenamehere21.github.io/Helios-Sentinel/
